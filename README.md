@@ -2,6 +2,5 @@
 Rust mini concepts
 
 
-
-## Impl as Value
-        
+1. Impl as parameter
+2. Generic impl as parameter       
